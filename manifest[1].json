@@ -1,0 +1,14 @@
+{
+  "name": "VENTEX",
+  "short_name": "Ventex",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#6F4E37",
+  "theme_color": "#6F4E37",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "logo-ventex.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

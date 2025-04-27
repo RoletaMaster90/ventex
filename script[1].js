@@ -1,0 +1,1 @@
+console.log('VENTEX App carregado');
